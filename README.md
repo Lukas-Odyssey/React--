@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# My First React Static Webpage
+
+
+![Screenshot from 2022-03-31 13-04-03](https://user-images.githubusercontent.com/101377725/160980311-dfacc3cb-e256-4494-9481-dd29cc7e5213.png)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
